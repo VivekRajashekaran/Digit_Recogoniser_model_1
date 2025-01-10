@@ -5,13 +5,16 @@ This notebook is part of a classification task where handwritten digit images ar
 Data preprocessing.
 Model training and evaluation using various classifiers.
 Comparison of model performance.
+
 Dataset
 Training Dataset: Contains labeled data used for model training.
 Test Dataset: Contains unlabeled data for prediction.
 Both datasets are loaded in CSV format:
 Training file: train.csv
 Testing file: test.csv
+
 Methods Used
+
 Models Implemented:
 Logistic Regression:
 A simple, interpretable baseline model for classification tasks.
